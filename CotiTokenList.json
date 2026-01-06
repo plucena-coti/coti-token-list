@@ -1,0 +1,74 @@
+{
+  "name": "coti-mainnet-token-list",
+  "logoURI": "https://assets.coingecko.com/coins/images/2962/standard/Coti.png",
+  "timestamp": "2025-12-26T00:00:00Z",
+  "version": { "major": 1, "minor": 0, "patch": 0 },
+  "keywords": ["coti","coti-mainnet","tokenlist", "privacy"],
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0xddb3422497e61e13543bea06989c0789117555c5",
+      "name": "COTI Token (Ethereum Mainnet)",
+      "symbol": "COTI",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/2962/standard/Coti.png"
+    },
+    {
+      "chainId": 1,
+      "address": "0xaf2ca40d3fc4459436d11b94d21fa4b8a89fb51d",
+      "name": "COTI Governance Token (Ethereum Mainnet)",
+      "symbol": "gCOTI",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/32930/standard/gCOTI_logo_icon200x200.png"
+    },
+    {
+      "chainId": 2632500,
+      "address": "0x7637C7838EC4Ec6b85080F28A678F8E234bB83D1",
+      "name": "COTI Treasury Governance Token (Coti Mainnet)",
+      "symbol": "gCOTI",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/24024/thumb/gcoti.png"
+    },
+    {
+      "chainId": 2632500,
+      "address": "0xf1Feebc4376c68B7003450ae66343Ae59AB37D3C",
+      "name": "Bridged USDC (COTI Mainnet)",
+      "symbol": "USDC.e",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/6319/thumb/USD_Coin_icon.png"
+    },
+    {
+      "chainId": 2632500,
+      "address": "0x639aCc80569c5FC83c6FBf2319A6Cc38bBfe26d1",
+      "name": "Wrapped ETH (COTI Mainnet)",
+      "symbol": "wETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/279/thumb/ethereum.png"
+    },
+    {
+      "chainId": 2632500,
+      "address": "0x8C39B1fD0e6260fdf20652Fc436d25026832bfEA",
+      "name": "Wrapped BTC (COTI Mainnet)",
+      "symbol": "wBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/7598/thumb/wrapped_bitcoin_wbtc.png"
+    },
+    {
+      "chainId": 2632500,
+      "address": "0xe757Ca19d2c237AA52eBb1d2E8E4368eeA3eb331",
+      "name": "Wrapped ADA (COTI Mainnet)",
+      "symbol": "wADA",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/975/standard/cardano.png"
+    },
+    {
+      "chainId": 2632500,
+      "address": "0xfA6f73446b17A97a56e464256DA54AD43c2Cbc3E",
+      "name": "Tether USD (COTI Mainnet)",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/325/standard/Tether.png"
+    }
+  ]
+}
+
