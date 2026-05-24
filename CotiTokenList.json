@@ -32,6 +32,14 @@
     },
     {
       "chainId": 7082400,
+      "address": "0x6cE8907414986E73De9e7D28d62Ea2080F8E88E1",
+      "name": "Private COTI (COTI Testnet)",
+      "symbol": "p.COTI",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/2962/standard/Coti.png"
+    },
+    {
+      "chainId": 7082400,
       "address": "0x63f3D2Cc8F5608F57ce6E5Aa3590A2Beb428D19C",
       "name": "Bridged USDC (COTI Testnet)",
       "symbol": "USDC.e",
@@ -109,6 +117,14 @@
       "symbol": "p.USDT",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/325/standard/Tether.png"
+    },
+    {
+      "chainId": 7082400,
+      "address": "0xD20cE79deE148674330A0443E2cEadC5F9603705",
+      "name": "NIGHT",
+      "symbol": "NIGHT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/71015/standard/midnight.png"
     }
   ]
 }
