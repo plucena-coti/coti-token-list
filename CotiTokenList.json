@@ -91,7 +91,7 @@
       "name": "Private COTI",
       "symbol": "p.COTI",
       "decimals": 18,
-      "logoURI": "https://coti.io/icons/coti.png"
+      "logoURI": "https://coti.io/icons/coti.p.png"
     },
     {
       "chainId": 2632500,
@@ -99,7 +99,7 @@
       "name": "Private Wrapped ETH",
       "symbol": "p.WETH",
       "decimals": 18,
-      "logoURI": "https://coti.io/icons/wETH.png"
+      "logoURI": "https://coti.io/icons/wETH.p.png"
     },
     {
       "chainId": 2632500,
@@ -115,7 +115,7 @@
       "name": "Private Tether USD",
       "symbol": "p.USDT",
       "decimals": 6,
-      "logoURI": "https://coti.io/icons/USDT.png"
+      "logoURI": "https://coti.io/icons/USDT.p.png"
     },
     {
       "chainId": 2632500,
@@ -131,7 +131,7 @@
       "name": "Private Wrapped ADA",
       "symbol": "p.WADA",
       "decimals": 6,
-      "logoURI": "https://coti.io/icons/wADA.png"
+      "logoURI": "https://coti.io/icons/wADA.p.png"
     },
     {
       "chainId": 2632500,
