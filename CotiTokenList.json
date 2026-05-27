@@ -20,7 +20,8 @@
       "name": "COTI",
       "symbol": "COTI",
       "decimals": 18,
-      "logoURI": "https://coti.io/icons/coti.png"
+      "logoURI": "https://coti.io/icons/coti.png",
+      "isPublic": true
     },
     {
       "chainId": 1,
@@ -28,7 +29,8 @@
       "name": "COTI Governance Token",
       "symbol": "gCOTI",
       "decimals": 18,
-      "logoURI": "https://coti.io/icons/gcoti.png"
+      "logoURI": "https://coti.io/icons/gcoti.png",
+      "isPublic": true
     },
     {
       "chainId": 2632500,
@@ -36,7 +38,8 @@
       "name": "COTI Treasury Governance Token",
       "symbol": "gCOTI",
       "decimals": 18,
-      "logoURI": "https://coti.io/icons/gcoti.png"
+      "logoURI": "https://coti.io/icons/gcoti.png",
+      "isPublic": true
     },
     {
       "chainId": 2632500,
@@ -44,7 +47,8 @@
       "name": "Bridged USDC (COTI)",
       "symbol": "USDC.e",
       "decimals": 6,
-      "logoURI": "https://coti.io/icons/USDC.png"
+      "logoURI": "https://coti.io/icons/USDC.png",
+      "isPublic": true
     },
     {
       "chainId": 2632500,
@@ -52,7 +56,8 @@
       "name": "Wrapped Ether",
       "symbol": "WETH",
       "decimals": 18,
-      "logoURI": "https://coti.io/icons/wETH.png"
+      "logoURI": "https://coti.io/icons/wETH.png",
+      "isPublic": true
     },
     {
       "chainId": 2632500,
@@ -60,7 +65,8 @@
       "name": "Wrapped BTC",
       "symbol": "WBTC",
       "decimals": 8,
-      "logoURI": "https://coti.io/icons/wBTC.png"
+      "logoURI": "https://coti.io/icons/wBTC.png",
+      "isPublic": true
     },
     {
       "chainId": 2632500,
@@ -68,7 +74,8 @@
       "name": "Wrapped ADA",
       "symbol": "wADA",
       "decimals": 6,
-      "logoURI": "https://coti.io/icons/wADA.png"
+      "logoURI": "https://coti.io/icons/wADA.png",
+      "isPublic": true
     },
     {
       "chainId": 2632500,
@@ -76,7 +83,8 @@
       "name": "Tether USD",
       "symbol": "USDT",
       "decimals": 6,
-      "logoURI": "https://coti.io/icons/USDT.png"
+      "logoURI": "https://coti.io/icons/USDT.png",
+      "isPublic": true
     },
     {
       "chainId": 2632500,
@@ -84,7 +92,8 @@
       "name": "NIGHT",
       "symbol": "NIGHT",
       "decimals": 6,
-      "logoURI": "https://coti.io/icons/midnight.png"
+      "logoURI": "https://coti.io/icons/midnight.png",
+      "isPublic": true
     },
     {
       "chainId": 2632500,
@@ -92,7 +101,8 @@
       "name": "Private COTI",
       "symbol": "p.COTI",
       "decimals": 18,
-      "logoURI": "https://coti.io/icons/coti.p.png"
+      "logoURI": "https://coti.io/icons/coti.p.png",
+      "isPublic": false
     },
     {
       "chainId": 2632500,
@@ -100,7 +110,8 @@
       "name": "Private Wrapped ETH",
       "symbol": "p.WETH",
       "decimals": 18,
-      "logoURI": "https://coti.io/icons/wETH.p.png"
+      "logoURI": "https://coti.io/icons/wETH.p.png",
+      "isPublic": false
     },
     {
       "chainId": 2632500,
@@ -108,7 +119,8 @@
       "name": "Private Wrapped BTC",
       "symbol": "p.WBTC",
       "decimals": 8,
-      "logoURI": "https://coti.io/icons/wBTC.p.png"
+      "logoURI": "https://coti.io/icons/wBTC.p.png",
+      "isPublic": false
     },
     {
       "chainId": 2632500,
@@ -116,7 +128,8 @@
       "name": "Private Tether USD",
       "symbol": "p.USDT",
       "decimals": 6,
-      "logoURI": "https://coti.io/icons/USDT.p.png"
+      "logoURI": "https://coti.io/icons/USDT.p.png",
+      "isPublic": false
     },
     {
       "chainId": 2632500,
@@ -124,7 +137,8 @@
       "name": "Private Bridged USDC (COTI)",
       "symbol": "p.USDC.e",
       "decimals": 6,
-      "logoURI": "https://coti.io/icons/USDC.p.png"
+      "logoURI": "https://coti.io/icons/USDC.p.png",
+      "isPublic": false
     },
     {
       "chainId": 2632500,
@@ -132,7 +146,8 @@
       "name": "Private Wrapped ADA",
       "symbol": "p.WADA",
       "decimals": 6,
-      "logoURI": "https://coti.io/icons/wADA.p.png"
+      "logoURI": "https://coti.io/icons/wADA.p.png",
+      "isPublic": false
     },
     {
       "chainId": 2632500,
@@ -140,7 +155,8 @@
       "name": "Private COTI Treasury Governance Token",
       "symbol": "p.gCOTI",
       "decimals": 18,
-      "logoURI": "https://coti.io/icons/gcoti.p.png"
+      "logoURI": "https://coti.io/icons/gcoti.p.png",
+      "isPublic": false
     }
   ]
 }
