@@ -21,7 +21,7 @@
       "symbol": "gCOTI",
       "decimals": 18,
       "logoURI": "https://coti.io/icons/gcoti.png",
-      "isPublic": true
+      "isPrivate": false
     },
     {
       "chainId": 7082400,
@@ -30,7 +30,7 @@
       "symbol": "p.gCOTI",
       "decimals": 18,
       "logoURI": "https://coti.io/icons/gcoti.p.png",
-      "isPublic": false
+      "isPrivate": true
     },
     {
       "chainId": 7082400,
@@ -39,7 +39,7 @@
       "symbol": "p.COTI",
       "decimals": 18,
       "logoURI": "https://coti.io/icons/coti.p.png",
-      "isPublic": false
+      "isPrivate": true
     },
     {
       "chainId": 7082400,
@@ -48,7 +48,7 @@
       "symbol": "USDC.e",
       "decimals": 6,
       "logoURI": "https://coti.io/icons/USDC.png",
-      "isPublic": true
+      "isPrivate": false
     },
     {
       "chainId": 7082400,
@@ -57,7 +57,7 @@
       "symbol": "p.USDC.e",
       "decimals": 6,
       "logoURI": "https://coti.io/icons/USDC.p.png",
-      "isPublic": false
+      "isPrivate": true
     },
     {
       "chainId": 7082400,
@@ -66,7 +66,7 @@
       "symbol": "wETH",
       "decimals": 18,
       "logoURI": "https://coti.io/icons/wETH.png",
-      "isPublic": true
+      "isPrivate": false
     },
     {
       "chainId": 7082400,
@@ -75,7 +75,7 @@
       "symbol": "p.WETH",
       "decimals": 18,
       "logoURI": "https://coti.io/icons/wETH.p.png",
-      "isPublic": false
+      "isPrivate": true
     },
     {
       "chainId": 7082400,
@@ -84,7 +84,7 @@
       "symbol": "wBTC",
       "decimals": 8,
       "logoURI": "https://coti.io/icons/wBTC.png",
-      "isPublic": true
+      "isPrivate": false
     },
     {
       "chainId": 7082400,
@@ -93,7 +93,7 @@
       "symbol": "p.WBTC",
       "decimals": 8,
       "logoURI": "https://coti.io/icons/wBTC.p.png",
-      "isPublic": false
+      "isPrivate": true
     },
     {
       "chainId": 7082400,
@@ -102,7 +102,7 @@
       "symbol": "wADA",
       "decimals": 6,
       "logoURI": "https://coti.io/icons/wADA.png",
-      "isPublic": true
+      "isPrivate": false
     },
     {
       "chainId": 7082400,
@@ -111,7 +111,7 @@
       "symbol": "p.wADA",
       "decimals": 6,
       "logoURI": "https://coti.io/icons/wADA.p.png",
-      "isPublic": false
+      "isPrivate": true
     },
     {
       "chainId": 7082400,
@@ -120,7 +120,7 @@
       "symbol": "USDT",
       "decimals": 6,
       "logoURI": "https://coti.io/icons/USDT.png",
-      "isPublic": true
+      "isPrivate": false
     },
     {
       "chainId": 7082400,
@@ -129,7 +129,7 @@
       "symbol": "p.USDT",
       "decimals": 6,
       "logoURI": "https://coti.io/icons/USDT.p.png",
-      "isPublic": false
+      "isPrivate": true
     },
     {
       "chainId": 7082400,
@@ -138,7 +138,7 @@
       "symbol": "NIGHT",
       "decimals": 6,
       "logoURI": "https://coti.io/icons/midnight.png",
-      "isPublic": true
+      "isPrivate": false
     }
   ]
 }
