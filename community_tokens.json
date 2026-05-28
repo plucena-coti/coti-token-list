@@ -21,7 +21,7 @@
       "symbol": "WISP",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/RosuLaurentiu/coti-token-list/codex/chainwhisper-logo/assets/chainwhisper.png",
-      "isPublic": true
+      "isPrivate": false
     },
     {
       "chainId": 2632500,
@@ -30,7 +30,7 @@
       "symbol": "p.WISP",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/RosuLaurentiu/coti-token-list/codex/chainwhisper-logo/assets/chainwhisper.png",
-      "isPublic": false
+      "isPrivate": true
     }
   ]
 }

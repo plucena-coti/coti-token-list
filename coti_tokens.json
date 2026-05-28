@@ -21,7 +21,7 @@
       "symbol": "COTI",
       "decimals": 18,
       "logoURI": "https://coti.io/icons/coti.png",
-      "isPublic": true
+      "isPrivate": false
     },
     {
       "chainId": 1,
@@ -30,7 +30,7 @@
       "symbol": "gCOTI",
       "decimals": 18,
       "logoURI": "https://coti.io/icons/gcoti.png",
-      "isPublic": true
+      "isPrivate": false
     },
     {
       "chainId": 2632500,
@@ -39,7 +39,7 @@
       "symbol": "gCOTI",
       "decimals": 18,
       "logoURI": "https://coti.io/icons/gcoti.png",
-      "isPublic": true
+      "isPrivate": false
     },
     {
       "chainId": 2632500,
@@ -48,7 +48,7 @@
       "symbol": "USDC.e",
       "decimals": 6,
       "logoURI": "https://coti.io/icons/USDC.png",
-      "isPublic": true
+      "isPrivate": false
     },
     {
       "chainId": 2632500,
@@ -57,7 +57,7 @@
       "symbol": "WETH",
       "decimals": 18,
       "logoURI": "https://coti.io/icons/wETH.png",
-      "isPublic": true
+      "isPrivate": false
     },
     {
       "chainId": 2632500,
@@ -66,7 +66,7 @@
       "symbol": "WBTC",
       "decimals": 8,
       "logoURI": "https://coti.io/icons/wBTC.png",
-      "isPublic": true
+      "isPrivate": false
     },
     {
       "chainId": 2632500,
@@ -75,7 +75,7 @@
       "symbol": "wADA",
       "decimals": 6,
       "logoURI": "https://coti.io/icons/wADA.png",
-      "isPublic": true
+      "isPrivate": false
     },
     {
       "chainId": 2632500,
@@ -84,7 +84,7 @@
       "symbol": "USDT",
       "decimals": 6,
       "logoURI": "https://coti.io/icons/USDT.png",
-      "isPublic": true
+      "isPrivate": false
     },
     {
       "chainId": 2632500,
@@ -93,7 +93,7 @@
       "symbol": "NIGHT",
       "decimals": 6,
       "logoURI": "https://coti.io/icons/midnight.png",
-      "isPublic": true
+      "isPrivate": false
     },
     {
       "chainId": 2632500,
@@ -102,7 +102,7 @@
       "symbol": "p.COTI",
       "decimals": 18,
       "logoURI": "https://coti.io/icons/coti.p.png",
-      "isPublic": false
+      "isPrivate": true
     },
     {
       "chainId": 2632500,
@@ -111,7 +111,7 @@
       "symbol": "p.WETH",
       "decimals": 18,
       "logoURI": "https://coti.io/icons/wETH.p.png",
-      "isPublic": false
+      "isPrivate": true
     },
     {
       "chainId": 2632500,
@@ -120,7 +120,7 @@
       "symbol": "p.WBTC",
       "decimals": 8,
       "logoURI": "https://coti.io/icons/wBTC.p.png",
-      "isPublic": false
+      "isPrivate": true
     },
     {
       "chainId": 2632500,
@@ -129,7 +129,7 @@
       "symbol": "p.USDT",
       "decimals": 6,
       "logoURI": "https://coti.io/icons/USDT.p.png",
-      "isPublic": false
+      "isPrivate": true
     },
     {
       "chainId": 2632500,
@@ -138,7 +138,7 @@
       "symbol": "p.USDC.e",
       "decimals": 6,
       "logoURI": "https://coti.io/icons/USDC.p.png",
-      "isPublic": false
+      "isPrivate": true
     },
     {
       "chainId": 2632500,
@@ -147,7 +147,7 @@
       "symbol": "p.WADA",
       "decimals": 6,
       "logoURI": "https://coti.io/icons/wADA.p.png",
-      "isPublic": false
+      "isPrivate": true
     },
     {
       "chainId": 2632500,
@@ -156,7 +156,7 @@
       "symbol": "p.gCOTI",
       "decimals": 18,
       "logoURI": "https://coti.io/icons/gcoti.p.png",
-      "isPublic": false
+      "isPrivate": true
     }
   ]
 }
