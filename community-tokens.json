@@ -1,0 +1,36 @@
+{
+  "name": "coti-community-token-list",
+  "logoURI": "https://coti.io/icons/coti-network.png",
+  "timestamp": "2026-05-26T00:00:00Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "keywords": [
+    "coti",
+    "coti-mainnet",
+    "tokenlist",
+    "community"
+  ],
+  "tokens": [
+    {
+      "chainId": 2632500,
+      "address": "0xb70c55bd0823436F44877DC6A9f46E0C55f2C3A8",
+      "name": "Whisper",
+      "symbol": "WISP",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/RosuLaurentiu/coti-token-list/codex/chainwhisper-logo/assets/chainwhisper.png",
+      "private": false
+    },
+    {
+      "chainId": 2632500,
+      "address": "0x682e3142e62a7aDe2a0CA5bdC87b205CaDe4B17a",
+      "name": "Private Whisper",
+      "symbol": "p.WISP",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/RosuLaurentiu/coti-token-list/codex/chainwhisper-logo/assets/chainwhisper.png",
+      "private": true
+    }
+  ]
+}
