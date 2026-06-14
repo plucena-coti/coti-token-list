@@ -1,0 +1,73 @@
+{
+  "name": "coti-bridge-token-list",
+  "logoURI": "https://coti.io/icons/coti-network.png",
+  "timestamp": "2026-06-14T00:00:00Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "keywords": [
+    "coti",
+    "testnet",
+    "bridge",
+    "tokenlist",
+    "privacy"
+  ],
+  "tokens": [
+    {
+      "chainId": 11155111,
+      "address": "0xd3f5c63f4D87D2235b295FbA83351d31d0eD1BeE",
+      "name": "MTT",
+      "symbol": "MTT",
+      "decimals": 18,
+      "logoURI": "https://coti.io/icons/coti.png",
+      "private": false
+    },
+    {
+      "chainId": 11155111,
+      "address": "0x34727cc7233e6B20aE071Cd16A81027172b6bdbA",
+      "name": "Private MTT",
+      "symbol": "p.MTT",
+      "decimals": 18,
+      "logoURI": "https://coti.io/icons/coti.p.png",
+      "private": true
+    },
+    {
+      "chainId": 43113,
+      "address": "0xa56ea551d6abd4ff5a94677895117d286bc1f1cf",
+      "name": "tUSDC",
+      "symbol": "tUSDC",
+      "decimals": 6,
+      "logoURI": "https://coti.io/icons/USDC.png",
+      "private": false
+    },
+    {
+      "chainId": 43113,
+      "address": "0x35a58aF6507771D3bc8C0D05C0cA489201E83fDf",
+      "name": "Private tUSDC",
+      "symbol": "p.tUSDC",
+      "decimals": 6,
+      "logoURI": "https://coti.io/icons/USDC.p.png",
+      "private": true
+    },
+    {
+      "chainId": 43113,
+      "address": "0x328e70e1c52662cd5f19f824fcb8b463d77a6686",
+      "name": "MTT",
+      "symbol": "MTT",
+      "decimals": 18,
+      "logoURI": "https://coti.io/icons/coti.png",
+      "private": false
+    },
+    {
+      "chainId": 43113,
+      "address": "0x3d0ED3CEe1b575c5F5E922ED0b119DEebCF4e147",
+      "name": "Private MTT",
+      "symbol": "p.MTT",
+      "decimals": 18,
+      "logoURI": "https://coti.io/icons/coti.p.png",
+      "private": true
+    }
+  ]
+}
